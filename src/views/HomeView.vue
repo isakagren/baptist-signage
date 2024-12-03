@@ -18,7 +18,7 @@ const getUrls = async () => {
 getUrls()
 setInterval(() => {
   getUrls()
-}, 120000)
+}, 600000)
 
 // change current image
 setInterval(() => {
